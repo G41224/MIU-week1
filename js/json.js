@@ -5,15 +5,15 @@
 var json = {
 	
 	"drinks": {
-		"name": ["Drink Name:", "jack and coke"],
+		"name": ["Drink Name:", "jonny on ice"],
 		"type": ["Drink Type:", "Alcoholic" ],
-		"date": ["date:", "10/10/2010"],
-		"note": ["note:", "this is a good drink"]
+		"date": ["date:", "05/09/2005"],
+		"note": ["note:", "this is the best drink"]
 		}
 	/*"drinks1": {
-		"name": ["Drink Name:", "pepsi and honey"],
+		"name": ["Drink Name:", "pepsi and jack"],
 		"type": ["Drink Type:", "Alcoholic" ],
-		"date": ["date:", "01/10/2013"],
+		"date": ["date:", "03/11/2011"],
 		"note": ["note:", "this is a great drink"]
 		
 	}*/
